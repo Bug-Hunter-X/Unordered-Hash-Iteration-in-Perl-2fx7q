@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in Perl related to the unordered iteration of hashes. The bug.pl file shows how a simple hash iteration can produce unexpected results due to the lack of guaranteed order. The bugSolution.pl file offers a solution using sort to ensure a consistent order if needed.
